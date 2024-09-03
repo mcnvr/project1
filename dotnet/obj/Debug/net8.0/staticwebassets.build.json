@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "sGLgU7S3H6uLsPhUJqgfup8fhL8TdKSUs8yU0Tm8pDg=",
+  "Source": "dotnet",
+  "BasePath": "_content/dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "dotnet\\wwwroot",
+      "Source": "dotnet",
+      "ContentRoot": "c:\\Users\\Matt\\Desktop\\NOTES F24\\SWE\\project1\\dotnet\\wwwroot\\",
+      "BasePath": "_content/dotnet",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "c:\\Users\\Matt\\Desktop\\NOTES F24\\SWE\\project1\\dotnet\\wwwroot\\index.html",
+      "SourceId": "dotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Matt\\Desktop\\NOTES F24\\SWE\\project1\\dotnet\\wwwroot\\",
+      "BasePath": "_content/dotnet",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
