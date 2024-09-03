@@ -25,3 +25,5 @@ c:\Users\Matt\Desktop\NOTES F24\SWE\project1\dotnet\obj\Debug\net8.0\dotnet.pdb
 c:\Users\Matt\Desktop\NOTES F24\SWE\project1\dotnet\obj\Debug\net8.0\dotnet.genruntimeconfig.cache
 c:\Users\Matt\Desktop\NOTES F24\SWE\project1\dotnet\obj\Debug\net8.0\ref\dotnet.dll
 c:\Users\Matt\Desktop\NOTES F24\SWE\project1\dotnet\bin\Debug\net8.0\dotnet.staticwebassets.runtime.json
+c:\Users\Matt\Desktop\NOTES F24\SWE\project1\dotnet\obj\Debug\net8.0\dotnet.RazorAssemblyInfo.cache
+c:\Users\Matt\Desktop\NOTES F24\SWE\project1\dotnet\obj\Debug\net8.0\dotnet.RazorAssemblyInfo.cs

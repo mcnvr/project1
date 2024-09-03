@@ -17,3 +17,7 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = c:\Users\Matt\Desktop\NOTES F24\SWE\project1\dotnet
 build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/Matt/Desktop/NOTES F24/SWE/project1/dotnet/Views/App/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXGluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
